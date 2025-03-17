@@ -1,6 +1,6 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
     right: 10%
@@ -8,14 +8,24 @@
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
-    right: 30%
+    right: 70%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 20%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
   
 .banner-principal .tarjeta
   background-position: left 50% !important
@@ -24,11 +34,26 @@
   width: 400px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: $color-sistema-texto !important
 
 .banner-interno__titulo__icono i
-  color: $color-primario
+  color: $color-secundario !important
 
 figcaption
   font-weight: normal
- 
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img1.png") !important
+
+.bg
+  &-c1
+    background-image: url(../assets/curso/intro/img1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+    margin-bottom: -48px
+    @media screen and ( max-width: $bp-max-sm )
+      margin-bottom: -24px
+  &-c2
+    background-color: #95DBB3
+    border-radius: 15px

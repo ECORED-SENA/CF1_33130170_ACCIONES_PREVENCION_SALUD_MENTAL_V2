@@ -48,19 +48,13 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Derechos en el campo de la salud mental',
+        titulo: 'Riesgos para la salud mental',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Riesgos para la salud mental',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema5',
-        numero: '5',
-        titulo: 'Crisis y afrontamiento',
+        titulo: 'Crisis',
         desarrolloContenidos: true,
       },
     ],
@@ -111,22 +105,80 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Concepto de salud mental positiva',
+      referencia:
+        'PAHO TV (2022). Qué es la salud mental y cómo podemos cuidarla.  [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=owr6b1WxWHM&ab_channel=PAHOTV',
+    },
+    {
+      tema: 'Derechos en el campo de la salud mental',
+      referencia:
+        'Unisalud-Universidad Nacional de Colombia (2023). Conozca sus derechos de salud mental. Ley 1616 de 2013, Art 2 [Archivo de video] Youtube',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=iUHHyu-0HL0&ab_channel=Unisalud-UniversidadNacionaldeColombia ',
+    },
+    {
+      tema: 'Derechos en el campo de la salud mental',
+      referencia:
+        'MinSalud (2021). Dimensión convivencia social y salud mental',
+      tipo: 'Archivo',
+      link:
+        'https://www.minsalud.gov.co/plandecenal/Documents/dimensiones/convivenciasocial-ysalud-mental.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Salud mental',
+      significado:
+        'estado de bienestar en que las personas desarrollan sus capacidades, afrontan las tensiones de la vida y contribuyen a su comunidad, según la Organización Mundial de la Salud (OMS).',
+    },
+    {
+      termino: 'Enfoque de derechos',
+      significado:
+        'perspectiva que garantiza el acceso, la atención y la promoción de la salud mental como parte fundamental de los derechos humanos.',
+    },
+    {
+      termino: 'Trastornos mentales comunes',
+      significado:
+        'afecciones de salud mental que pueden incluir depresión, ansiedad y trastornos del comportamiento, que afectan a individuos de distintas maneras.',
+    },
+    {
+      termino: 'Determinantes sociales',
+      significado:
+        'factores socioeconómicos y ambientales como la pobreza, educación y violencia, que impactan en la salud mental de los individuos y comunidades.',
+    },
+    {
+      termino: 'Violencia intrafamiliar',
+      significado:
+        'cualquier forma de abuso físico, psicológico, económico o sexual que ocurre dentro del hogar y afecta la integridad y bienestar de sus miembros.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Colombia. Ministerio de Salud y Protección Social. (2013). Ley 1616 de 21 de enero de 2013 por medio de la cual se expide la ley de salud mental y se dictan otras disposiciones.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2014). ABECÉ sobre la salud mental, sus trastornos y estigma.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/abc-salud-mental.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2015). Resolución 5592 de 2015.',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205592%20de%202015.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2016). Resolución 6408 de 2016. Recuperado de',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%206408%20de%202016.pdf',
     },
   ],
   creditos: [
@@ -134,14 +186,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de Línea de Producción',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -149,9 +202,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Sonia Margarita Leal Cruzo',
+          cargo: 'Experta Temática',
+          centro: 'Regional Risaralda',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -159,19 +217,22 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carlos Julián Ramírez Benítez',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortés García',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Edgar Mauricio Cortés García',
+          cargo: 'Actividad Didáctica',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -179,14 +240,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },

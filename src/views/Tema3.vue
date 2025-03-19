@@ -2,19 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Riesgos para la salud mental
-    p.mb-5 La salud mental es un componente fundamental del bienestar integral, tal como lo define la Organización Mundial de la Salud, que establece que la salud mental no es simplemente ausencia de enfermedades, sino un estado completo de bienestar físico, mental y social. Es crucial reconocer que diversos factores psicosociales pueden influir en la salud mental, lo que resalta la necesidad de implementar estrategias efectivas de promoción, prevención, tratamiento y recuperación para minimizar las afectaciones en esta área. Estos pueden incluir:
+    p.mb-5(data-aos="fade-right") La salud mental es un componente fundamental del bienestar integral, tal como lo define la Organización Mundial de la Salud, que establece que la salud mental no es simplemente ausencia de enfermedades, sino un estado completo de bienestar físico, mental y social. Es crucial reconocer que diversos factores psicosociales pueden influir en la salud mental, lo que resalta la necesidad de implementar estrategias efectivas de promoción, prevención, tratamiento y recuperación para minimizar las afectaciones en esta área. Estos pueden incluir:
     .row.bg-c12
       .col-12
         .px-5
           .row.align-items-center.mb-5
-            .col-lg-3.mb-4.mb-lg-0
+            .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
               figure
                 img(src="@/assets/curso/tema3/img2.png", alt="", style="width: 300px").m-auto
-            .col-lg-9
+            .col-lg-9(data-aos="fade-left")
               SlyderF(columnas="col-md-6")
                 .tarjeta.color-secundario.p-4
                   figure.mb-3
@@ -72,14 +72,14 @@
                       .p-2.bg-white
                         p.text-center.mb-0 #[b Causas biológicas]
                   p.text-center.mb-0 Rol de factores genéticos y desequilibrios bioquímicos en la prevalencia de enfermedades mentales.
-          p.mb-0 Ahora bien, podemos clasificar estos factores psicosociales en dos tipos: determinantes sociales y factores de riesgo.
+          p.mb-0(data-aos="fade-right") Ahora bien, podemos clasificar estos factores psicosociales en dos tipos: determinantes sociales y factores de riesgo.
           Separador
           #t_3_1
           .titulo-segundo.color-acento-contenido
             h2 3.1 Determinantes sociales
-    p Los determinasntes sociales son:
+    p(data-aos="fade-right") Los determinasntes sociales son:
     .row.align-items-center
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
           .row(titulo="Edad")
             .col-12
@@ -105,7 +105,7 @@
           .row(titulo="Cambios sociales inesperados")
             .col-12
               p.mb-0 Tienen un impacto significativo en la salud mental de las personas, ya que alteran las estructuras y condiciones a las que se está acostumbrado, generando un sentido de incertidumbre, estrés y adaptación. Estos cambios pueden estar relacionados con una variedad de situaciones, como crisis económicas, desastres naturales, cambios políticos, avances tecnológicos rápidos, pandemias o transformaciones culturales.
-      .col-lg-4.d-none.d-lg-block
+      .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/img3.png", alt="", style="width: 400px").m-auto
     Separador
@@ -113,15 +113,15 @@
     .titulo-segundo.color-acento-contenido
       h2 3.2 Factores de riesgo
     .row.mb-4
-      .col-lg-8.order-2.order-lg-1
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         .row.h-100.align-items-center.bg-c4
           .col-12
             .p-4
               p.mb-0 Estos se asocian con circunstancias individuales, familiares o sociales que pueden acelerar el surgimiento de enfermedades mentales. Al abordar un factor de riesgo, es esencial considerar también los factores de protección, definidos por la OMS como aquellas condiciones que aumentan la capacidad de las personas para resistir los factores de riesgo.  
-      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/img4.png", alt="", style="width: 400px").m-auto
-    p.mb-0 Así mismo, existen condiciones individuales como factores hereditarios, personalidad y recursos de afrontamiento que también pueden convertirse en factores de riesgo de acuerdo a la manera como se comportan en cada persona.
+    p.mb-0(data-aos="fade-down") Así mismo, existen condiciones individuales como factores hereditarios, personalidad y recursos de afrontamiento que también pueden convertirse en factores de riesgo de acuerdo a la manera como se comportan en cada persona.
     .row.bg-c13
       .col-12
         .px-5
@@ -130,20 +130,20 @@
           .titulo-segundo.color-acento-contenido
             h2 3.3 Condiciones individuales
           .row.align-items-center.mb-4
-            .col-lg-8.order-2.order-lg-1
+            .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               p Cada persona desarrolla habilidades que le permiten navegar por la vida, protegerse y cuidar de sí mismo y de los demás. Estas habilidades se refuerzan a través de las experiencias, ya sean positivas o negativas, que brinda el entorno. Sin embargo, cuando estas condiciones individuales son frágiles, pueden convertirse en un factor de riesgo que incrementa la vulnerabilidad a problemas de salud mental a lo largo de la vida. 
               p.mb-0 #[b Algunos factores que afectan el desarrollo a través de la vida son:]
-            .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
               figure
                 img(src="@/assets/curso/tema3/img9.svg", alt="", style="width: 400px").m-auto
           .row.justify-content-center
-            .col-lg-4.bg-c7
+            .col-lg-4.bg-c7(data-aos="fade-right")
               .row.h-100.align-items-end
                 .col-12
                   .px-4.pt-4
                     figure
                       img(src="@/assets/curso/tema3/img10.svg", alt="", style="width: 300px").m-auto
-            .col-lg-6.bg-c6
+            .col-lg-6.bg-c6(data-aos="fade-left")
               .p-4
                 ul.lista-ul--color
                   li.d-flex
@@ -179,14 +179,14 @@
     .titulo-segundo.color-acento-contenido
       h2 3.4 La familia
     .row.mb-5
-      .col-lg-8.order-2.order-lg-1
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         .row.h-100.align-items-center.bg-c4
           .col-12
             .p-4
               p La familia puede verse como un ecosistema donde la supervivencia de cada miembro está interconectada. 
               p Es en el núcleo familiar donde se forjan lazos fundamentales, se aprende sobre el amor, se inculcan valores, se establecen patrones de crianza, se forma el carácter y se practican ética y moralidad. La familia tiene la función esencial de enseñar a amar, siendo el mayor factor de protección para sus miembros.
               p.mb-0 Una configuración familiar hace referencia a la forma en que se organiza una familia, en función de la composición y los roles que desempeñan cada uno de sus miembros. Esta estructura puede incluir diferentes tipos de familias, cada configuración familiar puede tener diferentes funciones sociales y dinámicas que afectan el bienestar y el desarrollo de sus integrantes, además de su interacción con la sociedad. 
-      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/img6.png", alt="", style="width: 400px").m-auto
     .row.mb-4.ms-0
@@ -197,8 +197,8 @@
               img(src='@/assets/curso/tema3/img10.png', alt='', style='width: 50px; position: relative; left: -10px').m-auto
           .col.ps-0
             h3.mb-0 Estructuras familiares
-    p.mb-4 #[b La familia puede estar formada por diversos miembros, que pueden incluir:]
-    .row.justify-content-center.mb-4
+    p.mb-4(data-aos="fade-down") #[b La familia puede estar formada por diversos miembros, que pueden incluir:]
+    .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-md-5.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c7.h-100
           figure.mb-3
@@ -214,11 +214,11 @@
           figure.mb-3
             img(src="@/assets/curso/tema3/img9.png", alt="", style="width: 130px").m-auto
           p.mb-0 #[b Abuelos], #[b tíos], #[b primos] u otros familiares extendidos, según el tipo de familia.
-    p.mb-4 #[b Las familias pueden tener diferentes estructuras, que varían dependiendo de su composición y organización:]
+    p.mb-4(data-aos="fade-down") #[b Las familias pueden tener diferentes estructuras, que varían dependiendo de su composición y organización:]
     .row.bg-c9.mb-5
       .col-12
         .p-5
-          .tarjeta.tarjeta--azul1.p-4
+          .tarjeta.tarjeta--azul1.p-4(data-aos="fade-right")
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
@@ -270,12 +270,12 @@
                   figure
                     img(src="@/assets/curso/tema3/img17.png", alt="", style="width: 400px").m-auto
     .row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .p-4.bg-c8
           p.mb-0 La función social de la familia es esencial para el bienestar de la sociedad, ya que cumple varias funciones clave. Actúa como agente de socialización, transmitiendo normas y valores, especialmente a los niños, y proporciona apoyo emocional y afectivo, creando un entorno de amor que fomenta el desarrollo integral de sus miembros. Sin embargo, cuando la convivencia familiar se ve alterada por violencia, se generan efectos devastadores, como el miedo y las relaciones conflictivas, afectando tanto a las víctimas como a los agresores.
     p.mb-4 #[b Los tipos de violencia que se pueden dar en la familia son:]
     .row.align-items-center
-      .col-lg-8.order-2.order-lg-1
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
           .row(titulo="Violencia intrafamiliar")
             .col-12
@@ -289,7 +289,7 @@
           .row(titulo="Maltrato a personas mayores")
             .col-12
               p.mb-0 La Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores nos dice que el acto único o repetido que causa daño o sufrimiento a una persona de edad, o la falta de medidas apropiadas para evitarlo, que se produce en una relación basada en la confianza. La desatención o el abandono ocurre cuando un cuidador no brinda la atención adecuada o abandona al adulto mayor. Este es el tipo más común de maltrato a personas mayores.
-      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/img18.png", alt="", style="width: 360px").m-auto
 

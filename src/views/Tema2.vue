@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido.mb-0
+    .titulo-principal.color-acento-contenido.mb-0(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Salud mental en Colombia
@@ -10,14 +10,14 @@
       .col-12
         .p-5
           .row
-            .col-lg-9.bg-c6
+            .col-lg-9.bg-c6(data-aos="fade-left")
               .row.h-100.align-items-center
                 .col-12
                   .p-4
                     p.mb-4 Colombia ha reconocido la importancia de la salud mental como elemento esencial para el desarrollo de la sociedad y ha establecido leyes, planes, programas y resoluciones que consolidan políticas públicas robustas, inclusivas y con un enfoque de derechos humanos. Esta normativa ha evolucionado y se ha adaptado a las necesidades de una sociedad en constante cambio.
                     figure
                       img(src="@/assets/curso/tema2/img2.svg", alt="", style="width: 100px")
-            .col-lg-3.bg-c7
+            .col-lg-3.bg-c7(data-aos="fade-right")
               .p-4
                 figure
                   img(src="@/assets/curso/tema2/img1.svg", alt="", style="width: 200px").m-auto
@@ -25,9 +25,9 @@
           #t_2_1
           .titulo-segundo.color-acento-contenido
             h2 2.1 Ley 1566 de 2012
-          p Por la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas. El consumo, abuso y adicción de sustancias psicoactivas es considerado como una enfermedad mental, por tanto, su atención, tratamiento y seguimiento está contemplado en la ley y existen beneficios para su atención en el Sistema de Seguridad Social en Salud. 
-          p.mb-5 #[b Los aspectos claves de la Ley 1566 de 2012, son:]
-          TabsB.color-primario
+          p(data-aos="fade-right") Por la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas. El consumo, abuso y adicción de sustancias psicoactivas es considerado como una enfermedad mental, por tanto, su atención, tratamiento y seguimiento está contemplado en la ley y existen beneficios para su atención en el Sistema de Seguridad Social en Salud. 
+          p.mb-5(data-aos="fade-right") #[b Los aspectos claves de la Ley 1566 de 2012, son:]
+          TabsB.color-primario(data-aos="fade-left")
             .p-4.p-lg-5(titulo="Normas para la atención integral" :icono="require('@/assets/curso/tema2/img3.svg')")
               .row.justify-content-center.align-items-center
                 .col-lg-5.mb-4.mb-lg-0
@@ -50,18 +50,18 @@
                   figure
                     img(src="@/assets/curso/tema2/img4.png", alt="", style="width: 400px").m-auto
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .p-4.p-lg-5.bg-c8
           p.mb-0 En resumen, #[b la Ley 1566 de 2012] establece un marco normativo para la atención integral a las personas que consumen sustancias psicoactivas y promueve la participación activa de entidades para prevenir y reducir los riesgos asociados con su consumo. Además, se crea un mecanismo de reconocimiento, como el Premio Nacional, para fomentar el compromiso de las entidades en esta causa.
     Separador
     #t_2_2
     .titulo-segundo.color-acento-contenido
       h2 2.2 Ley 1616 de 2013
-    p.mb-5 La Ley 1616 de 2013, conocida como Ley de Salud Mental, incorpora el enfoque de derechos en la concepción de la salud mental en Colombia.
+    p.mb-5(data-aos="fade-right") La Ley 1616 de 2013, conocida como Ley de Salud Mental, incorpora el enfoque de derechos en la concepción de la salud mental en Colombia.
     .row.bg-c9
       .col-12
         .p-5
-          .tarjeta.tarjeta--azul1.p-4
+          .tarjeta.tarjeta--azul1.p-4(data-aos="fade-down")
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-6.mb-4.mb-lg-0
@@ -157,10 +157,10 @@
     #t_2_3
     .titulo-segundo.color-acento-contenido
       h2 2.3 Política nacional de salud mental para Colombia 2014
-    p Continuemos con el documento propuesto de ajuste de la política nacional de salud mental para Colombia 2014.
-    p.mb-4 La dimensión de convivencia social y salud mental, a partir del Análisis de la situación de salud 2014 y la Propuesta de ajuste de la política nacional de salud mental 2014, se destacan tres componentes fundamentales que orientan las acciones en el ámbito de la salud mental:
+    p(data-aos="fade-right") Continuemos con el documento propuesto de ajuste de la política nacional de salud mental para Colombia 2014.
+    p.mb-4(data-aos="fade-right") La dimensión de convivencia social y salud mental, a partir del Análisis de la situación de salud 2014 y la Propuesta de ajuste de la política nacional de salud mental 2014, se destacan tres componentes fundamentales que orientan las acciones en el ámbito de la salud mental:
     .row.align-items-center
-      .col-lg-8.order-2.order-lg-1
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
           .row(titulo="Promoción de la salud mental")
             .col-12
@@ -171,16 +171,16 @@
           .row(titulo="Atención integral en salud mental")
             .col-12
               p.mb-0 Asegurar la atención integral, integrada, continua, y basada en evidencia, saberes y prácticas ancestrales, tradicionales, alternativas y complementarias, para el mantenimiento y restablecimiento de la salud mental a toda la población colombiana.
-      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/img11.png", alt="", style="width: 400px").m-auto
     Separador
     #t_2_4
     .titulo-segundo.color-acento-contenido
       h2 2.4 Resolución 5592 de 2015
-    p.mb-4 Por la cual se actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación-UPC del Sistema General de Seguridad Social en Salud —SGSSS.
+    p.mb-4(data-aos="fade-right") Por la cual se actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación-UPC del Sistema General de Seguridad Social en Salud —SGSSS.
     .row.justify-content-center
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         .p-4.p-lg-5.bg-c7
           p.mb-4 #[b Capítulo II - Atención a personas de 6 años a menores de 14 años de edad]
           ul.lista-ul--color
@@ -192,7 +192,7 @@
               i.fas.fa-circle-check
               |
               p.mb-0 #[b Artículo 101.] Atención a personas de 6 años a menores de 14 años de edad con trastornos alimentarios.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         .p-4.p-lg-5.bg-c10.h-100
           p.mb-4.text-white #[b Capítulo VI - Salud mental.]
           ul.lista-ul--color
@@ -204,8 +204,8 @@
     #t_2_5
     .titulo-segundo.color-acento-contenido
       h2 2.5 Resolución 3880 de 2018
-    p.mb-4 Esta resolución:
-    .row
+    p.mb-4(data-aos="fade-down") Esta resolución:
+    .row(data-aos="fade-right")
       .col-lg-3
         .p-4.bg-c6.h-100
           figure.mb-3
@@ -225,12 +225,12 @@
     #t_2_6
     .titulo-segundo.color-acento-contenido
       h2 2.6 Resolución 4886 de 2018
-    p Se adopta la Política Nacional de Salud Mental en Colombia, la cual busca garantizar el acceso a la atención en salud mental de manera integral y equitativa, promoviendo el bienestar psicológico y emocional de la población. Su enfoque está basado en los derechos humanos y en un modelo comunitario e inclusivo, buscando integrar la salud mental en todos los niveles del sistema de salud del país. 
-    p.mb-5 #[b Los ejes de la política nacional de salud mental, son:]
+    p(data-aos="fade-right") Se adopta la Política Nacional de Salud Mental en Colombia, la cual busca garantizar el acceso a la atención en salud mental de manera integral y equitativa, promoviendo el bienestar psicológico y emocional de la población. Su enfoque está basado en los derechos humanos y en un modelo comunitario e inclusivo, buscando integrar la salud mental en todos los niveles del sistema de salud del país. 
+    p.mb-5(data-aos="fade-right") #[b Los ejes de la política nacional de salud mental, son:]
     .row.bg-c9
       .col-12
         .p-5
-          .tarjeta.tarjeta--azul1.p-4
+          .tarjeta.tarjeta--azul1.p-4(data-aos="fade-down")
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
@@ -292,11 +292,11 @@
     .titulo-segundo.color-acento-contenido
       h2 2.7 Plan decenal de salud pública 2022-2031
     .row
-      .col-lg-3.bg-c7
+      .col-lg-3.bg-c7(data-aos="fade-right")
         .p-4
           figure
             img(src="@/assets/curso/tema2/img1.svg", alt="", style="width: 200px").m-auto
-      .col-lg-9.bg-c6
+      .col-lg-9.bg-c6(data-aos="fade-left")
         .row.h-100.align-items-center
           .col-12
             .p-4

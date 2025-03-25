@@ -83,7 +83,7 @@
                     li.d-flex
                       i.fas.fa-circle-check
                       |
-                      p.mb-0 Derecho a recibir la atención especializada e interdisciplinaria y los I tratamientos con la mejor evidencia científica de acuerdo con los avances científicos en salud mental.
+                      p.mb-0 Derecho a recibir la atención especializada e interdisciplinaria y los tratamientos con la mejor evidencia científica de acuerdo con los avances científicos en salud mental.
                     li.d-flex
                       i.fas.fa-circle-check
                       |
@@ -158,7 +158,7 @@
     .titulo-segundo.color-acento-contenido
       h2 2.3 Política nacional de salud mental para Colombia 2014
     p(data-aos="fade-right") Continuemos con el documento propuesto de ajuste de la política nacional de salud mental para Colombia 2014.
-    p.mb-4(data-aos="fade-right") La dimensión de convivencia social y salud mental, a partir del Análisis de la situación de salud 2014 y la Propuesta de ajuste de la política nacional de salud mental 2014, se destacan tres componentes fundamentales que orientan las acciones en el ámbito de la salud mental:
+    p.mb-4(data-aos="fade-right") La dimensión de convivencia social y salud mental, a partir del análisis de la situación de salud 2014 y la propuesta de ajuste de la política nacional de salud mental 2014, se destacan tres componentes fundamentales que orientan las acciones en el ámbito de la salud mental:
     .row.align-items-center
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
@@ -181,7 +181,7 @@
     p.mb-4(data-aos="fade-right") Por la cual se actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación-UPC del Sistema General de Seguridad Social en Salud —SGSSS.
     .row.justify-content-center
       .col-lg-5(data-aos="fade-right")
-        .p-4.p-lg-5.bg-c7
+        .p-3.p-lg-4.bg-c7
           p.mb-4 #[b Capítulo II - Atención a personas de 6 años a menores de 14 años de edad]
           ul.lista-ul--color
             li.d-flex
@@ -193,7 +193,7 @@
               |
               p.mb-0 #[b Artículo 101.] Atención a personas de 6 años a menores de 14 años de edad con trastornos alimentarios.
       .col-lg-5(data-aos="fade-left")
-        .p-4.p-lg-5.bg-c10.h-100
+        .p-3.p-lg-4.bg-c10.h-100
           p.mb-4.text-white #[b Capítulo VI - Salud mental.]
           ul.lista-ul--color
             li.d-flex
@@ -234,21 +234,21 @@
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
-                  p #[b Promoción de la convivencia y la salud mental en los entornos]
-                  p.mb-0 Destaca la promoción de estilos de vida saludables, involucramiento parental, educación en habilidades para la viday el fortalecimiento de la cultura propia como factor protector de la salud mental. 
+                  p #[b Promoción de la convivencia y la salud mental en los entornos.]
+                  p.mb-0 Destaca la promoción de estilos de vida saludables, involucramiento parental, educación en habilidades para la vida y el fortalecimiento de la cultura propia como factor protector de la salud mental. 
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema2/img12.png", alt="", style="width: 400px").m-auto
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
-                  p #[b Prevención de los problemas de salud mental individuales y colectivos, así como de los trastornos mentales y epilepsia]
+                  p #[b Prevención de los problemas de salud mental individuales y colectivos, así como de los trastornos mentales y epilepsia.]
                   p.mb-0 Hace referencia a las acciones orientadas a evitar o prevenir el desarrollo de la enfermedad, como la disminución de los factores de riesgo, así como aquellas encaminadas a frenar su progresión y reducir sus efectos una vez que ya ha aparecido.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema2/img13.png", alt="", style="width: 400px").m-auto
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
-                  p #[b Atención integral de los problemas, trastornos mentales y epilepsia (tratamiento integral)]
+                  p #[b Atención integral de los problemas, trastornos mentales y epilepsia. (tratamiento integral)]
                   ul.lista-ul--color
                     li.d-flex
                       i.fas.fa-circle-check
@@ -275,14 +275,14 @@
                     img(src="@/assets/curso/tema2/img14.png", alt="", style="width: 400px").m-auto
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
-                  p #[b Rehabilitación integral e Inclusión social]
+                  p #[b Rehabilitación integral e inclusión social.]
                   p.mb-0 Es un proceso continuo y coordinado que busca lograr la máxima recuperación en los aspectos físicos, psicológicos, educativos, sociales y ocupacionales, con el objetivo de asegurar igualdad de oportunidades e integración social para todas las personas con discapacidad. Este proceso abarca la rehabilitación psicosocial y se lleva a cabo de manera continua en la comunidad, con el apoyo directo de las autoridades de salud locales.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema2/img15.png", alt="", style="width: 400px").m-auto
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
-                  p #[b Gestión, articulación y coordinación sectorial e intersectorial]
+                  p #[b Gestión, articulación y coordinación sectorial e intersectorial.]
                   p.mb-0 En principio, hace referencia a la colaboración entre distintos sectores con un enfoque común para abordar problemas sociales. De esta manera, todas las políticas públicas orientadas al desarrollo integral y a la mejora de la calidad de vida de la población deben ser diseñadas e implementadas de manera intersectorial.
                 .col-lg-4
                   figure

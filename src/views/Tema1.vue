@@ -56,7 +56,7 @@
           .col-12
             .p-4.bg-c4
               figure
-                img(src="@/assets/curso/tema1/img4.svg", alt="Las relaciones sociales deben basarse en tener relaciones cálidas y positivas, lo que implica aislarse de pares de riesgo, poner límites con familiares poco saludables, crear rutinas sociales, tener redes de apoyo, evitar cargas laborales y evitar relaciones de pareja donde exista algún tipo de violencia.", style="width: 900px").m-auto
+                img(src="@/assets/curso/tema1/img5.svg", alt="Las relaciones sociales deben basarse en tener relaciones cálidas y positivas, lo que implica aislarse de pares de riesgo, poner límites con familiares poco saludables, crear rutinas sociales, tener redes de apoyo, evitar cargas laborales y evitar relaciones de pareja donde exista algún tipo de violencia.", style="width: 820px").m-auto
 
 </template>
 

@@ -89,13 +89,13 @@
               p.mb-0 La posición económica influye profundamente en la salud mental, generando riesgos derivados del estrés crónico, la falta de recursos para una atención adecuada, la dificultad para cubrir las necesidades básicas y las presiones sociales y familiares.
           .row(titulo="Genero")
             .col-12
-              p.mb-0 El género tiene un impacto significativo en la salud mental debido a una serie de factores sociales, culturales, económicos y biológicos que varían entre hombres y mujeres, así como Las personas LGBTQ+ (lesbianas, gais, bisexuales, transgénero, queer, entre otras), pueden experimentar discriminación, estigmatización y rechazo social.
+              p.mb-0 El género tiene un impacto significativo en la salud mental debido a una serie de factores sociales, culturales, económicos y biológicos que varían entre hombres y mujeres, así como las personas LGBTQ+ (lesbianas, gais, bisexuales, transgénero, queer, entre otras), pueden experimentar discriminación, estigmatización y rechazo social.
           .row(titulo="Educación")
             .col-12
               p.mb-0 Las personas con menor nivel educativo pueden enfrentarse a estigmas sociales relacionados con su educación, lo que puede impactar su autoestima y bienestar psicológico. Sentir que no se cumplen ciertas expectativas sociales o profesionales puede generar sentimientos de fracaso o de no valía.
           .row(titulo="Violencia social o guerra")
             .col-12
-              p.mb-0 esta violencia puede tener efectos tanto a corto como a largo plazo en la salud mental, a nivel individual y social. Entre los efectos más comunes se encuentran el Trastorno de Estrés Postraumático (TEPT), la ansiedad, la depresión, el aislamiento social, el sentimiento de inseguridad y miedo crónico, así como los desplazamientos forzosos.
+              p.mb-0 Esta violencia puede tener efectos tanto a corto como a largo plazo en la salud mental, a nivel individual y social. Entre los efectos más comunes se encuentran el trastorno de estrés postraumático (TEPT), la ansiedad, la depresión, el aislamiento social, el sentimiento de inseguridad y miedo crónico, así como los desplazamientos forzosos.
           .row(titulo="Violación de DH")
             .col-12
               p.mb-0 Cuando estos derechos son vulnerados, se desencadenan efectos negativos en el bienestar emocional y psicológico de las víctimas, y estos efectos pueden ser tanto inmediatos como a largo plazo.
@@ -285,10 +285,10 @@
               p.mb-0 La ley 1098 de 2006 en su artículo 18 establece que el maltrato infantil se refiere a toda forma de perjuicio, castigo, humillación o abuso físico, psicológico, descuido, omisión de tratamiento o malos tratos o explotación sexual, incluidos los actos sexuales abusivos y la violación y en general toda forma de violencia o agresión sobre el niño, la niña o el adolescente por parte de sus padres, representantes legales o cualquier otra persona.
           .row(titulo="Violencia por razones de género")
             .col-12
-              p.mb-0 El Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual nos define que cualquier acción, omisión, conducta (o amenazas) que causen muerte, daño o sufrimiento físico, sexual, psicológico económico y/o patrimonial a la persona y/o a las familias o a las comunidades asociada a un ejercicio de poder fundamentado en relaciones asimétricas y desiguales entre hombres y mujeres, para mantener condiciones de desigualdad y discriminación.
+              p.mb-0 El Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual nos define que cualquier acción, omisión, conducta (o amenazas) que causen muerte, daño o sufrimiento físico, sexual, psicológico, económico y/o patrimonial a la persona y/o a las familias o a las comunidades asociadas a un ejercicio de poder fundamentado en relaciones asimétricas y desiguales entre hombres y mujeres, para mantener condiciones de desigualdad y discriminación.
           .row(titulo="Maltrato a personas mayores")
             .col-12
-              p.mb-0 La Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores nos dice que el acto único o repetido que causa daño o sufrimiento a una persona de edad, o la falta de medidas apropiadas para evitarlo, que se produce en una relación basada en la confianza. La desatención o el abandono ocurre cuando un cuidador no brinda la atención adecuada o abandona al adulto mayor. Este es el tipo más común de maltrato a personas mayores.
+              p.mb-0 La Convención Interamericana sobre la Protección de los Derechos Humanos de las personas mayores nos dice que el acto único o repetido que causa daño o sufrimiento a una persona de edad, o la falta de medidas apropiadas para evitarlo, que se produce en una relación basada en la confianza. La desatención o el abandono ocurre cuando un cuidador no brinda la atención adecuada o abandona al adulto mayor. Este es el tipo más común de maltrato a personas mayores.
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/img18.png", alt="", style="width: 360px").m-auto

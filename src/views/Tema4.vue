@@ -226,7 +226,7 @@
     .row.bg-c18
       .col-12
         .px-5
-          p.mb-4(data-aos="fade-right") En el marco de la Política Pública en Salud mental: Las personas con trastornos mentales presentan tasas elevadas de discapacidad y mortalidad. En Colombia, la depresión mayor unipolar (13,17), los trastornos mentales y del comportamiento debidos al uso de alcohol (8,06), los trastornos de ansiedad (6,16) y la epilepsia (3,35), se encuentran entre las primeras veinte causas por Años Vividos con Discapacidad AVD (tasa x 1.000) (Ministerio de Salud y Protección Social, 2018, p. 9).
+          p.mb-4(data-aos="fade-right") En el marco de la Política Pública en Salud mental: las personas con trastornos mentales presentan tasas elevadas de discapacidad y mortalidad. En Colombia, la depresión mayor unipolar (13,17), los trastornos mentales y del comportamiento debidos al uso de alcohol (8,06), los trastornos de ansiedad (6,16) y la epilepsia (3,35), se encuentran entre las primeras veinte causas por Años Vividos con Discapacidad AVD (tasa x 1.000) (Ministerio de Salud y Protección Social, 2018, p. 9).
           .row.justify-content-center.mb-5
             .col-lg-8(data-aos="fade-down")
               .row
@@ -273,7 +273,7 @@
                 .row
                   .col-12
                     .p-4
-                      p.text-center.text-white.mb-3 #[b Trastornos ansiosos]
+                      p.text-center.text-white.mb-3 #[b Trastornos de ansiedad]
                       p.text-white.mb-0 El DSM-5 clasifica los trastornos de ansiedad como afecciones caracterizadas por una preocupación excesiva, miedos o temores intensos que son difíciles de controlar y que interfieren con las actividades cotidianas.
             .col-md-6.col-lg-4(data-aos="fade-left")
               .bg-c19.h-100

@@ -105,34 +105,31 @@ export default {
   },
   complementario: [
     {
-      tema: 'Concepto de salud mental positiva',
+      tema: 'Salud mental en Colombia',
       referencia:
-        'PAHO TV (2022). Qué es la salud mental y cómo podemos cuidarla.  [Archivo de video] Youtube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=owr6b1WxWHM&ab_channel=PAHOTV',
-    },
-    {
-      tema: 'Derechos en el campo de la salud mental',
-      referencia:
-        'Unisalud-Universidad Nacional de Colombia (2023). Conozca sus derechos de salud mental. Ley 1616 de 2013, Art 2 [Archivo de video] Youtube',
+        'Ministerio de Salud de Colombia. (2021). <i>¿Qué es lo nuevo en este Plan Decenal de Salud Pública 2022-2031?</i> [video]. YouTube.',
       tipo: 'Video',
       link:
-        'https://www.youtube.com/watch?v=iUHHyu-0HL0&ab_channel=Unisalud-UniversidadNacionaldeColombia ',
+        'https://www.youtube.com/watch?v=_k4hapIpNoA&list=PLdA3cVDe-LYwnLe-Csdcfgw7gVZo094XY&index=5',
     },
     {
-      tema: 'Derechos en el campo de la salud mental',
+      tema: 'Salud mental en Colombia',
       referencia:
-        'MinSalud (2021). Dimensión convivencia social y salud mental',
-      tipo: 'Archivo',
-      link:
-        'https://www.minsalud.gov.co/plandecenal/Documents/dimensiones/convivenciasocial-ysalud-mental.pdf',
+        'Hernández, S. (2021, septiembre 8). <i>Política pública de salud mental en Colombia</i> [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=4PgLbYkm9jg',
     },
   ],
   glosario: [
     {
-      termino: 'Salud mental',
+      termino: 'Atención primaria',
       significado:
-        'estado de bienestar en que las personas desarrollan sus capacidades, afrontan las tensiones de la vida y contribuyen a su comunidad, según la Organización Mundial de la Salud (OMS).',
+        'son aquellos servicios que se prestan para atender las necesidades básicas de salud.',
+    },
+    {
+      termino: 'Determinantes sociales',
+      significado:
+        'factores socioeconómicos y ambientales como la pobreza, educación y violencia, que impactan en la salud mental de los individuos y comunidades.',
     },
     {
       termino: 'Enfoque de derechos',
@@ -140,14 +137,34 @@ export default {
         'perspectiva que garantiza el acceso, la atención y la promoción de la salud mental como parte fundamental de los derechos humanos.',
     },
     {
+      termino: 'Estrategias de prevención',
+      significado:
+        'son un conjunto de acciones planificadas y ejecutadas con el objetivo de reducir o evitar la ocurrencia de problemas, riesgos o conductas indeseables antes de que sucedan.',
+    },
+    {
+      termino: 'Política pública',
+      significado:
+        'las políticas públicas son las acciones de gobierno, es la acción emitida por éste, que busca cómo dar respuestas a las diversas demandas de la sociedad, como señala Chandler y Plano, se pueden entender como uso estratégico de recursos para aliviar los problemas nacionales.',
+    },
+    {
+      termino: 'Promoción de la salud mental',
+      significado:
+        'la promoción de la salud mental es una estrategia intersectorial y un conjunto de procesos orientados hacia la transformación de los determinantes de la salud mental, que afectan la calidad de vida en procura de la satisfacción de las necesidades y los medios para mantener la salud, mejorarla y ejercer control de la misma en los niveles individual y colectivo teniendo en cuenta el marco cultural colombiano.',
+    },
+    {
+      termino: 'Red hospitalaria',
+      significado:
+        'conjunto de instituciones de diferentes niveles de atención, dispuestas para prestar los servicios de salud a la comunidad.',
+    },
+    {
+      termino: 'Salud mental',
+      significado:
+        'estado de bienestar en que las personas desarrollan sus capacidades, afrontan las tensiones de la vida y contribuyen a su comunidad, según la Organización Mundial de la Salud (OMS).',
+    },
+    {
       termino: 'Trastornos mentales comunes',
       significado:
         'afecciones de salud mental que pueden incluir depresión, ansiedad y trastornos del comportamiento, que afectan a individuos de distintas maneras.',
-    },
-    {
-      termino: 'Determinantes sociales',
-      significado:
-        'factores socioeconómicos y ambientales como la pobreza, educación y violencia, que impactan en la salud mental de los individuos y comunidades.',
     },
     {
       termino: 'Violencia intrafamiliar',
@@ -158,27 +175,55 @@ export default {
   referencias: [
     {
       referencia:
-        'Colombia. Ministerio de Salud y Protección Social. (2013). Ley 1616 de 21 de enero de 2013 por medio de la cual se expide la ley de salud mental y se dictan otras disposiciones.',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf',
+        'American Psychiatric Association. (2013). <i>Diagnostic and statistical manual of mental disorders (5th ed.)</i>. American Psychiatric Publishing.',
+      link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2014). ABECÉ sobre la salud mental, sus trastornos y estigma.',
+        'Fernández Márquez, L. M. (2010, junio). <i>Modelo de intervención en crisis en busca de la resiliencia personal</i>. Consejo General de la Psicología de España. ',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/abc-salud-mental.pdf',
+        'https://www.cop.es/uploads/PDF/MODELO-INTERVENCION-CRISIS-RESILIENCIA-PERSONAL.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2015). Resolución 5592 de 2015.',
-      link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205592%20de%202015.pdf',
+        'Guatrochi, M. (2020). <i>Nuevas configuraciones familiares: Tipos de familia, funciones y estructura familiar</i>. Revista REDES, (41), 11-18. ',
+      link: 'https://www.redesdigital.com/index.php/redes/article/view/44',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). Resolución 6408 de 2016. Recuperado de',
+        'Ley 1566 de 2012. (2012). <i>Por medio de la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas y se crea el Premio Nacional "Entidad Comprometida con la Prevención del Consumo, Abuso y Adicción a Sustancias Psicoactivas"</i>. Congreso de la República de Colombia. Función Pública. ',
       link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%206408%20de%202016.pdf',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48678',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2018). <i>Política Nacional de Salud Mental</i>. Ministerio de Salud y Protección Social. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-nacional-salud-mental.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2018). <i>Resolución 3280 de 2018, por la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación</i>. Ministerio de Salud y Protección Social. ',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%203280%20de%2020183280.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2022). <i>Plan Decenal de Salud Pública 2022-2031</i>. Ministerio de Salud y Protección Social. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/PSP/documento-plan-decenal-salud-publica-2022-2031.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (s.f.). <i>ASIS Salud Mental</i> [Documento en línea]. Recuperado el 21 de noviembre de 2024, de: ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/PSP/asis-convivencia-social-salud-mental.pdf',
+    },
+    {
+      referencia:
+        'Política Criminal. (2024). <i>Boletín de comportamiento del delito de violencia intrafamiliar (VIF) 2016-2023</i> [Documento en línea]. Recuperado el 23 de noviembre de 2024, de: ',
+      link:
+        'https://www.politicacriminal.gov.co/Portals/0/documento/Violencia-Intrafamiliar-Junio.pdf',
     },
   ],
   creditos: [
@@ -223,14 +268,8 @@ export default {
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Edgar Mauricio Cortés García',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro:
-            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Edgar Mauricio Cortés García',
-          cargo: 'Actividad Didáctica',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },

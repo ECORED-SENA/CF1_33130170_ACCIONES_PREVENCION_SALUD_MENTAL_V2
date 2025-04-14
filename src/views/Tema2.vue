@@ -131,7 +131,11 @@
                     li.d-flex
                       i.fas.fa-circle-check
                       |
-                      p.mb-0 Derecho a recibir el medicamento que requiera siempre con fines terapéuticos o diagnósticos. 13. Derecho a exigir que sea tenido en cuenta el consentimiento informado para recibir el tratamiento.
+                      p.mb-0 Derecho a recibir el medicamento que requiera siempre con fines terapéuticos o diagnósticos.
+                    li.d-flex
+                      i.fas.fa-circle-check
+                      |
+                      p.mb-0 Derecho a exigir que sea tenido en cuenta el consentimiento informado para recibir el tratamiento.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema2/img9.png", alt="", style="width: 400px").m-auto
@@ -182,7 +186,7 @@
     .row.justify-content-center
       .col-lg-5(data-aos="fade-right")
         .p-3.p-lg-4.bg-c7
-          p.mb-4 #[b Capítulo II - Atención a personas de 6 años a menores de 14 años de edad]
+          p.mb-4 #[b Capítulo II - Atención a personas de 6 años a menores de 14 años de edad.]
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-circle-check

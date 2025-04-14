@@ -77,7 +77,7 @@
           #t_3_1
           .titulo-segundo.color-acento-contenido
             h2 3.1 Determinantes sociales
-    p(data-aos="fade-right") Los determinasntes sociales son:
+    p(data-aos="fade-right") Los determinantes sociales son:
     .row.align-items-center
       .col-lg-8(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")

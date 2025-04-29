@@ -52,7 +52,7 @@
     .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
         .p-4.p-lg-5.bg-c8
-          p.mb-0 En resumen, #[b la Ley 1566 de 2012] establece un marco normativo para la atención integral a las personas que consumen sustancias psicoactivas y promueve la participación activa de entidades para prevenir y reducir los riesgos asociados con su consumo. Además, se crea un mecanismo de reconocimiento, como el Premio Nacional, para fomentar el compromiso de las entidades en esta causa.
+          p.mb-0 En resumen, la #[b Ley 1566 de 2012] establece un marco normativo para la atención integral a las personas que consumen sustancias psicoactivas y promueve la participación activa de entidades para prevenir y reducir los riesgos asociados con su consumo. Además, se crea un mecanismo de reconocimiento, como el Premio Nacional, para fomentar el compromiso de las entidades en esta causa.
     Separador
     #t_2_2
     .titulo-segundo.color-acento-contenido

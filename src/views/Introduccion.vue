@@ -10,7 +10,7 @@
     .row.bg-c1
       .col-12
         .p-5
-          p.mb-4(data-aos="fade-down") #[b Este componente abordará los conceptos de salud mental desde una perspectiva positiva y el enfoque de derechos.]
+          p.mb-4(data-aos="fade-down") Este componente abordará los conceptos de salud mental desde una perspectiva positiva y el enfoque de derechos.
           .row.mb-4
             .col-12(data-aos="fade-right")
               .p-4.bg-c2

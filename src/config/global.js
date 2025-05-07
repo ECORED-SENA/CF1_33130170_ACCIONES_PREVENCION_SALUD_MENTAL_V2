@@ -44,18 +44,94 @@ export default {
         numero: '2',
         titulo: 'Salud mental en Colombia',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Ley 1566 de 2012',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Ley 1616 de 2013',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Política nacional de salud mental para Colombia 2014',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Resolución 5592 de 2015',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Resolución 3880 de 2018',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Resolución 4886 de 2018',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo: 'Plan decenal de salud pública 2022-2031',
+            hash: 't_2_7',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Riesgos para la salud mental',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Determinantes sociales',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Factores de riesgo',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Condiciones individuales',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'La familia',
+            hash: 't_3_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
         titulo: 'Crisis',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Consumo de Sustancias Psicoactivas (SPA)',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Trastornos mentales comunes',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Redes sociales y salud mental',
+            hash: 't_4_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -221,9 +297,9 @@ export default {
     },
     {
       referencia:
-        'Política Criminal. (2024). <i>Boletín de comportamiento del delito de violencia intrafamiliar (VIF) 2016-2023</i> [Documento en línea]. Recuperado el 23 de noviembre de 2024, de: ',
+        'Corporación Universitaria de Ciencia y Desarrollo UNICIENCIA - <i>boletín sobre violencia de género e intrafamiliar (2019 - 2024)</i>. ',
       link:
-        'https://www.politicacriminal.gov.co/Portals/0/documento/Violencia-Intrafamiliar-Junio.pdf',
+        'https://uniciencia.edu.co/apps/observatorioddhhypaz/images/boletines/2024/Boletin-Violencia-de-genero-e-intrafamiliar-2019-2024.pdf',
     },
   ],
   creditos: [

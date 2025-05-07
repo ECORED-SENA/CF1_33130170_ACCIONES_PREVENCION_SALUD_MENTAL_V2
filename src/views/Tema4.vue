@@ -22,7 +22,7 @@
                     p Durante una crisis, una persona puede sentir que su capacidad para hacer frente a la situación está sobrepasada, lo que afecta su bienestar físico, cognitivo y emocional. Las crisis pueden manifestarse en forma de problemas mentales o diagnósticos mentales.
                     figure
                       img(src="@/assets/curso/tema4/img3.svg", alt="", style="width: 100px")
-          p.mb-4(data-aos="fade-down") #[b Para identificar una crisis, debe observar signos como:]
+          p.mb-4(data-aos="fade-down") Para identificar una crisis, debe observar signos como:
           .row.align-items-center
             .col-lg-8(data-aos="fade-right")
               AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
@@ -158,7 +158,7 @@
             .col-lg-4(data-aos="fade-left")
               figure
                 img(src="@/assets/curso/tema4/img2.svg", alt="", style="width: 400px").m-auto
-    p.mb-5(data-aos="fade-down") #[b Las crisis pueden clasificarse en:]
+    p.mb-5(data-aos="fade-down") Las crisis pueden clasificarse en:
     .row.bg-c9
       .col-12
         .p-5
@@ -325,13 +325,13 @@
         .p-5
           .row.align-items-center
             .col-lg-7(data-aos="fade-right")
-              .p-4.bg-white
+              .p-4.bg-white.shadow.rounded
                 p #[b Los factores de protección son:]
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-check
                     |
-                    p.mb-0 Fortalecer la estima.
+                    p.mb-0 Fortalecer la autoestima.
                   li.d-flex
                     i.fas.fa-circle-check
                     |

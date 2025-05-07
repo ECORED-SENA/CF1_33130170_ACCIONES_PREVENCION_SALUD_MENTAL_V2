@@ -57,7 +57,7 @@
     #t_2_2
     .titulo-segundo.color-acento-contenido
       h2 2.2 Ley 1616 de 2013
-    p.mb-5(data-aos="fade-right") La Ley 1616 de 2013, conocida como Ley de Salud Mental, incorpora el enfoque de derechos en la concepción de la salud mental en Colombia.
+    p.mb-5(data-aos="fade-right") Conocida como Ley de Salud Mental, incorpora el enfoque de derechos en la concepción de la salud mental en Colombia.
     .row.bg-c9
       .col-12
         .p-5
@@ -171,7 +171,7 @@
               p.mb-0 Promover la salud mental mediante programas de fortalecimiento de sus factores protectores, con énfasis en la acción intersectorial.
           .row(titulo="Prevención de trastornos mentales")
             .col-12
-              p.mb-0 Prevenir la aparición y desarrollo de problemas y trastornos de salud mental mediante acciones tendientes al control de factores de riesgo y la atención oportuna y adecuada a las personas, pueblos, grupos humanos y comunidades.
+              p.mb-0 Prevenir la aparición, desarrollo de problemas y trastornos de salud mental mediante acciones tendientes al control de factores de riesgo y la atención oportuna y adecuada a las personas, pueblos, grupos humanos y comunidades.
           .row(titulo="Atención integral en salud mental")
             .col-12
               p.mb-0 Asegurar la atención integral, integrada, continua, y basada en evidencia, saberes y prácticas ancestrales, tradicionales, alternativas y complementarias, para el mantenimiento y restablecimiento de la salud mental a toda la población colombiana.
@@ -182,7 +182,7 @@
     #t_2_4
     .titulo-segundo.color-acento-contenido
       h2 2.4 Resolución 5592 de 2015
-    p.mb-4(data-aos="fade-right") Por la cual se actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación-UPC del Sistema General de Seguridad Social en Salud —SGSSS.
+    p.mb-4(data-aos="fade-right") Por la cual se actualiza integralmente el Plan de Beneficios en Salud-PBS con cargo a la Unidad de Pago por Capitación-UPC del Sistema General de Seguridad Social en Salud-SGSSS.
     .row.justify-content-center
       .col-lg-5(data-aos="fade-right")
         .p-3.p-lg-4.bg-c7
@@ -219,7 +219,7 @@
         .p-4.bg-c11.h-100
           figure.mb-3
             img(src="@/assets/curso/tema2/img5.svg", alt="", style="width: 70px")
-          p.mb-0 Se crea la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud (RIAPS).
+          p.mb-0 Se crea la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud (RIAS).
       .col-lg-6
         .p-4.bg-c7.h-100
           figure.mb-3
@@ -229,8 +229,8 @@
     #t_2_6
     .titulo-segundo.color-acento-contenido
       h2 2.6 Resolución 4886 de 2018
-    p(data-aos="fade-right") Se adopta la Política Nacional de Salud Mental en Colombia, la cual busca garantizar el acceso a la atención en salud mental de manera integral y equitativa, promoviendo el bienestar psicológico y emocional de la población. Su enfoque está basado en los derechos humanos y en un modelo comunitario e inclusivo, buscando integrar la salud mental en todos los niveles del sistema de salud del país. 
-    p.mb-5(data-aos="fade-right") #[b Los ejes de la política nacional de salud mental, son:]
+    p(data-aos="fade-right") Se adopta la Política Nacional de Salud Mental en Colombia, la cual busca garantizar el acceso a la atención en salud mental de manera integral y equitativa, promoviendo el bienestar psicológico y emocional de la población. Su enfoque está basado en los derechos humanos y en un modelo comunitario e inclusivo, buscando integrar la salud mental en todos los niveles del sistema de salud del país.
+    p.mb-5(data-aos="fade-right") Los ejes de la política nacional de salud mental, son:
     .row.bg-c9
       .col-12
         .p-5

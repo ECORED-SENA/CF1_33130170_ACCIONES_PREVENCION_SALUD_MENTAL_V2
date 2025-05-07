@@ -197,7 +197,7 @@
               img(src='@/assets/curso/tema3/img10.png', alt='', style='width: 50px; position: relative; left: -10px').m-auto
           .col.ps-0
             h3.mb-0 Estructuras familiares
-    p.mb-4(data-aos="fade-down") #[b La familia puede estar formada por diversos miembros, que pueden incluir:]
+    p.mb-4(data-aos="fade-down") La familia puede estar formada por diversos miembros, que pueden incluir:
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-md-5.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c7.h-100
@@ -214,7 +214,7 @@
           figure.mb-3
             img(src="@/assets/curso/tema3/img9.png", alt="", style="width: 130px").m-auto
           p.mb-0 #[b Abuelos], #[b tíos], #[b primos] u otros familiares extendidos, según el tipo de familia.
-    p.mb-4(data-aos="fade-down") #[b Las familias pueden tener diferentes estructuras, que varían dependiendo de su composición y organización:]
+    p.mb-4(data-aos="fade-down") Las familias pueden tener diferentes estructuras, que varían dependiendo de su composición y organización:
     .row.bg-c9.mb-5
       .col-12
         .p-5
@@ -282,7 +282,7 @@
               p.mb-0 El Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual define la violencia intrafamiliar como todas aquellas acciones realizadas en el interior de la familia, donde uno de sus miembros lesiona la armonía y la vida, la integridad, la autonomía, la libertad individual, la libertad sexual o la dignidad humana de quienes la integran.
           .row(titulo="Maltrato infantil")
             .col-12
-              p.mb-0 La ley 1098 de 2006 en su artículo 18 establece que el maltrato infantil se refiere a toda forma de perjuicio, castigo, humillación o abuso físico, psicológico, descuido, omisión de tratamiento o malos tratos o explotación sexual, incluidos los actos sexuales abusivos y la violación y en general toda forma de violencia o agresión sobre el niño, la niña o el adolescente por parte de sus padres, representantes legales o cualquier otra persona.
+              p.mb-0 La ley 1098 de 2006 en su artículo 18 establece que el maltrato infantil se refiere a toda forma de perjuicio, castigo, humillación o abuso físico, psicológico, descuido, omisión de tratamiento, malos tratos o explotación sexual, incluidos los actos sexuales abusivos y la violación y en general toda forma de violencia o agresión sobre el niño, la niña o el adolescente por parte de sus padres, representantes legales o cualquier otra persona.
           .row(titulo="Violencia por razones de género")
             .col-12
               p.mb-0 El Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual nos define que cualquier acción, omisión, conducta (o amenazas) que causen muerte, daño o sufrimiento físico, sexual, psicológico, económico y/o patrimonial a la persona y/o a las familias o a las comunidades asociadas a un ejercicio de poder fundamentado en relaciones asimétricas y desiguales entre hombres y mujeres, para mantener condiciones de desigualdad y discriminación.

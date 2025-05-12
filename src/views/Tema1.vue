@@ -39,28 +39,28 @@
           .col-12
             .p-4.bg-c4
               figure
-                img(src="@/assets/curso/tema1/img3.svg", alt="magen que presenta los aspectos biológicos de la salud mental.", style="width: 800px").m-auto
+                img(src="@/assets/curso/tema1/img3.svg", alt="Imagen que presenta los aspectos biológicos de la salud mental.", style="width: 800px").m-auto
               figcaption.mt-2 #[b Nota.] Aspectos biológicos. (s.f.). [Imagen].
     .row.justify-content-center.mb-5
-      .col-lg-10(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-3
-          p.mb-0 #[b Figura 3.] Aspectos psicológicos
-        .row
-          .col-12
-            .p-4.bg-c4
-              figure
-                img(src="@/assets/curso/tema1/img4.svg", alt="Imagen que presenta los aspectos psicológicos de la salud mental.", style="width: 900px").m-auto
-              figcaption.mt-2 #[b Nota.] Aspectos psicológicos. (s.f.). [Imagen].
-    .row.justify-content-center
       .col-lg-10(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-3
-          p.mb-0 #[b Figura 4.] Aspectos sociales
+          p.mb-0 #[b Figura 3.] Aspectos sociales
         .row
           .col-12
             .p-4.bg-c4
               figure
                 img(src="@/assets/curso/tema1/img5.svg", alt="Imagen que presenta los aspectos sociales de la salud mental.", style="width: 820px").m-auto
               figcaption.mt-2 #[b Nota.] Aspectos sociales. (s.f.). [Imagen].
+    .row.justify-content-center
+      .col-lg-10(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido.mb-3
+          p.mb-0 #[b Figura 4.] Aspectos psicológicos
+        .row
+          .col-12
+            .p-4.bg-c4
+              figure
+                img(src="@/assets/curso/tema1/img4.svg", alt="Imagen que presenta los aspectos psicológicos de la salud mental.", style="width: 650px").m-auto
+              figcaption.mt-2 #[b Nota.] Aspectos psicológicos. (s.f.). [Imagen].
 
 </template>
 

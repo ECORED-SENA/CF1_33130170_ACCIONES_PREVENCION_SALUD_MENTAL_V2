@@ -25,7 +25,7 @@
           #t_2_1
           .titulo-segundo.color-acento-contenido
             h2 2.1 Ley 1566 de 2012
-          p(data-aos="fade-right") Por la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas y se crea el premio nacional "entidad comprometida con la prevención del consumo, abuso y adicción a sustancias" psicoactivas. Los aspectos claves de la Ley 1566 de 2012, son:
+          p(data-aos="fade-right") Por la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas y se crea el premio nacional "entidad comprometida con la prevención del consumo, abuso y adicción a sustancias" psicoactivas.
           p.mb-5(data-aos="fade-right") #[b Los aspectos claves de la Ley 1566 de 2012, son:]
           TabsB.color-primario(data-aos="fade-left")
             .p-4.p-lg-5(titulo="Normas para la atención integral" :icono="require('@/assets/curso/tema2/img3.svg')")
@@ -219,7 +219,7 @@
         .p-4.bg-c11.h-100
           figure.mb-3
             img(src="@/assets/curso/tema2/img5.svg", alt="", style="width: 70px")
-          p.mb-0 Se crea la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud (RIAS).
+          p.mb-0 Se crea la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud (RPMS).
       .col-lg-6
         .p-4.bg-c7.h-100
           figure.mb-3

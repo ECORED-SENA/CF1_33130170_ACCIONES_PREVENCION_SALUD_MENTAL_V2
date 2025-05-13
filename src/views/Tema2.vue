@@ -25,13 +25,13 @@
           #t_2_1
           .titulo-segundo.color-acento-contenido
             h2 2.1 Ley 1566 de 2012
-          p(data-aos="fade-right") Por la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas. El consumo, abuso y adicción de sustancias psicoactivas es considerado como una enfermedad mental, por tanto, su atención, tratamiento y seguimiento está contemplado en la ley y existen beneficios para su atención en el Sistema de Seguridad Social en Salud. 
+          p(data-aos="fade-right") Por la cual se dictan normas para garantizar la atención integral a personas que consumen sustancias psicoactivas y se crea el premio nacional "entidad comprometida con la prevención del consumo, abuso y adicción a sustancias" psicoactivas. Los aspectos claves de la Ley 1566 de 2012, son:
           p.mb-5(data-aos="fade-right") #[b Los aspectos claves de la Ley 1566 de 2012, son:]
           TabsB.color-primario(data-aos="fade-left")
             .p-4.p-lg-5(titulo="Normas para la atención integral" :icono="require('@/assets/curso/tema2/img3.svg')")
               .row.justify-content-center.align-items-center
                 .col-lg-5.mb-4.mb-lg-0
-                  p.mb-0 Establece directrices para la atención en salud, rehabilitación, y reintegración de las personas afectadas por el consumo de sustancias psicoactivas. Se enfoca en promover un enfoque integral, accesible y multidisciplinario para el tratamiento de las personas, abarcando aspectos médicos, psicológicos y sociales.
+                  p.mb-0 Establece directrices para la atención en salud, rehabilitación, y reintegración de las personas afectadas por el consumo de sustancias psicoactivas. Se centra en promover un enfoque integral, accesible y multidisciplinario para el tratamiento de las personas, abarcando aspectos médicos, psicológicos y sociales.
                 .col-lg-5
                   figure
                     img(src="@/assets/curso/tema2/img2.png", alt="", style="width: 400px").m-auto
@@ -69,7 +69,7 @@
                     li.d-flex
                       i.fas.fa-circle-check
                       |
-                      p.mb-0 Derecho a recibir atención integral e integrada y humanizada por el equipo humano y los servicios especializados en salud mental.
+                      p.mb-0 Derecho a recibir una atención integral, integrada y humanizada por parte del equipo profesional y los servicios especializados en salud mental.
                     li.d-flex
                       i.fas.fa-circle-check
                       |
